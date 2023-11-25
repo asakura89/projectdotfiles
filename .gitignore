@@ -293,6 +293,7 @@ develop-eggs/
 # > Modern Javascript
 node_modules/
 bower_components/
+npm-debug.log
 
 # > Installer logs
 pip-log.txt
